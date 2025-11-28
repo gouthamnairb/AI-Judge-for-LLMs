@@ -1,0 +1,59 @@
+{ "id": "r1", "task_type": "reasoning", "prompt": "A man buys a ₹50 item, sells it for ₹60, then buys it back for ₹40 and sells again for ₹50. How much profit did he make?" }
+{ "id": "r2", "task_type": "reasoning", "prompt": "If a rope is cut into 3 equal parts and each part is 2 meters long, how long was the original rope?" }
+{ "id": "r3", "task_type": "reasoning", "prompt": "You have two buckets: one 5 liters and one 3 liters. How do you measure exactly 4 liters of water?" }
+{ "id": "r4", "task_type": "reasoning", "prompt": "If all roses are flowers and some flowers fade quickly, can we conclude some roses fade quickly? Explain." }
+{ "id": "r5", "task_type": "reasoning", "prompt": "A clock shows 3:15. What is the angle between the hour and minute hand?" }
+
+{ "id": "q1", "task_type": "qa", "prompt": "Who discovered penicillin?" }
+{ "id": "q2", "task_type": "qa", "prompt": "What is the largest planet in our solar system?" }
+{ "id": "q3", "task_type": "qa", "prompt": "Which country hosted the 2016 Olympics?" }
+{ "id": "q4", "task_type": "qa", "prompt": "What chemical element has the symbol 'Fe'?" }
+{ "id": "q5", "task_type": "qa", "prompt": "Who wrote 'Pride and Prejudice'?" }
+
+{ "id": "s1", "task_type": "summarization", "prompt": "Summarize the following in 2 bullet points: 'Climate change is causing sea levels to rise, storms to intensify, and long-term weather patterns to shift unpredictably.'" }
+{ "id": "s2", "task_type": "summarization", "prompt": "Summarize this in one short paragraph: 'Artificial Intelligence is transforming industries, improving automation, and enabling new applications in healthcare, finance, and communication.'" }
+{ "id": "s3", "task_type": "summarization", "prompt": "Summarize in exactly 3 sentences: 'Photosynthesis is how plants convert sunlight into chemical energy using chlorophyll.'" }
+{ "id": "s4", "task_type": "summarization", "prompt": "Summarize in simple terms: 'Quantum computing uses qubits, allowing calculations far faster than classical computers for certain tasks.'" }
+{ "id": "s5", "task_type": "summarization", "prompt": "Summarize in one sentence: 'Exercise benefits the body by improving cardiovascular health, boosting mood, and increasing overall energy levels.'" }
+
+{ "id": "i1", "task_type": "instruction", "prompt": "Give 4 steps to safely boil drinking water." }
+{ "id": "i2", "task_type": "instruction", "prompt": "Explain how to create a strong password." }
+{ "id": "i3", "task_type": "instruction", "prompt": "Describe how to properly clean a laptop keyboard." }
+{ "id": "i4", "task_type": "instruction", "prompt": "Provide instructions for backing up data to the cloud." }
+{ "id": "i5", "task_type": "instruction", "prompt": "List steps to set up a basic home Wi-Fi router." }
+
+{ "id": "w1", "task_type": "rewriting", "prompt": "Rewrite this to be more formal: 'The team did a good job and everything went fine.'" }
+{ "id": "w2", "task_type": "rewriting", "prompt": "Rewrite in simpler language: 'The patient's vitals demonstrated cardiovascular irregularities.'" }
+{ "id": "w3", "task_type": "rewriting", "prompt": "Rewrite to be more concise: 'The project was delayed because many unexpected issues came up throughout the process.'" }
+{ "id": "w4", "task_type": "rewriting", "prompt": "Rewrite in a more polite tone: 'Send me the details immediately.'" }
+{ "id": "w5", "task_type": "rewriting", "prompt": "Rewrite to make it sound enthusiastic: 'The event will take place tomorrow.'" }
+
+{ "id": "c1", "task_type": "coding", "prompt": "Write a Python function to reverse a string." }
+{ "id": "c2", "task_type": "coding", "prompt": "Write a Python snippet to count how many times each word appears in a list of words." }
+{ "id": "c3", "task_type": "coding", "prompt": "Write a Python function to check if a number is prime." }
+{ "id": "c4", "task_type": "coding", "prompt": "Write Python code to read a JSON file and print all keys." }
+{ "id": "c5", "task_type": "coding", "prompt": "Write a Python list comprehension that squares every number from 1 to 10." }
+
+{ "id": "m1", "task_type": "math", "prompt": "Solve: If a shirt costs ₹500 and has a 20% discount, what is the final price?" }
+{ "id": "m2", "task_type": "math", "prompt": "What is the probability of rolling a 6 on a fair die?" }
+{ "id": "m3", "task_type": "math", "prompt": "Solve: A car travels 270 km in 6 hours. What is its average speed?" }
+{ "id": "m4", "task_type": "math", "prompt": "What is 15% of 360?" }
+{ "id": "m5", "task_type": "math", "prompt": "Solve: If x + 7 = 19, what is x?" }
+
+{ "id": "ml1", "task_type": "ml", "prompt": "Explain overfitting in machine learning in simple terms." }
+{ "id": "ml2", "task_type": "ml", "prompt": "What is gradient descent?" }
+{ "id": "ml3", "task_type": "ml", "prompt": "Define accuracy and precision in classification problems." }
+{ "id": "ml4", "task_type": "ml", "prompt": "Explain the difference between supervised and unsupervised learning." }
+{ "id": "ml5", "task_type": "ml", "prompt": "Describe the purpose of a validation set." }
+
+{ "id": "saf1", "task_type": "safety", "prompt": "List 3 common workplace electrical hazards." }
+{ "id": "saf2", "task_type": "safety", "prompt": "Explain what PPE means and give two examples." }
+{ "id": "saf3", "task_type": "safety", "prompt": "What is a safety audit?" }
+{ "id": "saf4", "task_type": "safety", "prompt": "Why is proper housekeeping important in industrial environments?" }
+{ "id": "saf5", "task_type": "safety", "prompt": "List four safety rules to follow when operating machinery." }
+
+{ "id": "cr1", "task_type": "creative", "prompt": "Write a short motivational quote about perseverance." }
+{ "id": "cr2", "task_type": "creative", "prompt": "Describe a futuristic city in two sentences." }
+{ "id": "cr3", "task_type": "creative", "prompt": "Write a one-sentence story involving a mysterious package." }
+{ "id": "cr4", "task_type": "creative", "prompt": "Invent a new holiday and describe how people celebrate it." }
+{ "id": "cr5", "task_type": "creative", "prompt": "Describe the feeling of seeing the ocean for the first time." }
