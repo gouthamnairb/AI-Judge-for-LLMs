@@ -1,0 +1,6 @@
+openai
+anthropic
+langchain
+python-dotenv
+pandas
+plotly
