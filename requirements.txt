@@ -1,5 +1,5 @@
 python-dotenv
 openai
-anthropic
+google-genai>=1.0.0
 pandas
 plotly
