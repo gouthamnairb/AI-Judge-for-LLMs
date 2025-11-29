@@ -1,7 +1,7 @@
 import anthropic
 import os
 
-class claudeClient:
+class ClaudeAIClient:
     def __init__(self):
         self.api_key= os.getenv("CLAUDE_API_KEY")
         self.client = anthropic.Anthropic(api_key=self.api_key)
